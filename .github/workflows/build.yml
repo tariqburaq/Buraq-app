@@ -1,4 +1,4 @@
- Build Buraq APK
+name: Build Buraq APK
 on: [push]
 jobs:
   build:

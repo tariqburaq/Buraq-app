@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539277284388",
+    "project_id": "buraq-99192",
+    "storage_bucket": "buraq-99192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539277284388:android:358e1a1e05490c3419b4b1",
+        "android_client_info": {
+          "package_name": "com.buraq.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yX-g_38B3acn6BIVbJurY5y5KQ3DveI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
